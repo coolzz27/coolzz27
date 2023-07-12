@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Vio's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzz27&count_private=true)
+![Vio's GitHub stats](https://github-readme-stats-xi-ten-81.vercel.app/api?username=coolzz27&count_private=true)
 
 <!--
 **coolzz27/coolzz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
