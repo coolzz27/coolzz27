@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=coolzz27&count_private=true&theme=tokyonight&showicons=true)]()
+
 <!--
 **coolzz27/coolzz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
